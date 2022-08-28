@@ -1,4 +1,4 @@
 package com.example.affirmations.model
 
-class Affirmation {
+class Affirmation(val stringResourceId: Int) {
 }
